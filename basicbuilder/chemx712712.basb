@@ -1,0 +1,404 @@
+<?xml version="1.0" ?>
+<Basicbuilder type="dict">
+	<MenuHeader type="str">
+		Choose program:
+	</MenuHeader>
+	<AppName type="str">
+		ChemX
+	</AppName>
+	<MenuItems type="list">
+		<ListItem type="dict">
+			<Files type="list">
+				<ListItem type="dict">
+					<Main type="bool">
+						0
+					</Main>
+					<Type type="str">
+						Prog
+					</Type>
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\R.8xp
+					</Location>
+				</ListItem>
+				<ListItem type="dict">
+					<Main type="bool">
+						0
+					</Main>
+					<Type type="str">
+						Prog
+					</Type>
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\L.8xp
+					</Location>
+				</ListItem>
+				<ListItem type="dict">
+					<Main type="bool">
+						0
+					</Main>
+					<Type type="str">
+						Prog
+					</Type>
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\P (2).8xp
+					</Location>
+				</ListItem>
+				<ListItem type="dict">
+					<Main type="bool">
+						0
+					</Main>
+					<Type type="str">
+						Prog
+					</Type>
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\PP wP.8xp
+					</Location>
+				</ListItem>
+				<ListItem type="dict">
+					<Main type="bool">
+						0
+					</Main>
+					<Type type="str">
+						Prog
+					</Type>
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\SC.8xp
+					</Location>
+				</ListItem>
+				<ListItem type="dict">
+					<Main type="bool">
+						0
+					</Main>
+					<Type type="str">
+						Prog
+					</Type>
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\GK (with R).8xp
+					</Location>
+				</ListItem>
+				<ListItem type="dict">
+					<Main type="bool">
+						0
+					</Main>
+					<Type type="str">
+						Prog
+					</Type>
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\MM.8xp
+					</Location>
+				</ListItem>
+				<ListItem type="dict">
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\CHEMX071212.8xp
+					</Location>
+					<Main type="bool">
+						1
+					</Main>
+					<Type type="str">
+						Prog
+					</Type>
+				</ListItem>
+				<ListItem type="dict">
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\MAINMENU.8XI
+					</Location>
+					<Type type="str">
+						Pic
+					</Type>
+					<Name type="str">
+						A
+					</Name>
+				</ListItem>
+				<ListItem type="dict">
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\TITLE.8XI
+					</Location>
+					<Type type="str">
+						Pic
+					</Type>
+					<Name type="str">
+						B
+					</Name>
+				</ListItem>
+				<ListItem type="dict">
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\1.1.8XI
+					</Location>
+					<Type type="str">
+						Pic
+					</Type>
+					<Name type="str">
+						C
+					</Name>
+				</ListItem>
+				<ListItem type="dict">
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\1.2.8XI
+					</Location>
+					<Type type="str">
+						Pic
+					</Type>
+					<Name type="str">
+						D
+					</Name>
+				</ListItem>
+				<ListItem type="dict">
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\2.1.8XI
+					</Location>
+					<Type type="str">
+						Pic
+					</Type>
+					<Name type="str">
+						E
+					</Name>
+				</ListItem>
+				<ListItem type="dict">
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\2.2.8XI
+					</Location>
+					<Type type="str">
+						Pic
+					</Type>
+					<Name type="str">
+						F
+					</Name>
+				</ListItem>
+				<ListItem type="dict">
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\2.3.8XI
+					</Location>
+					<Type type="str">
+						Pic
+					</Type>
+					<Name type="str">
+						G
+					</Name>
+				</ListItem>
+				<ListItem type="dict">
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\2.4.8XI
+					</Location>
+					<Type type="str">
+						Pic
+					</Type>
+					<Name type="str">
+						H
+					</Name>
+				</ListItem>
+				<ListItem type="dict">
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\2.5.8XI
+					</Location>
+					<Type type="str">
+						Pic
+					</Type>
+					<Name type="str">
+						I
+					</Name>
+				</ListItem>
+				<ListItem type="dict">
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\3.1.8XI
+					</Location>
+					<Type type="str">
+						Pic
+					</Type>
+					<Name type="str">
+						J
+					</Name>
+				</ListItem>
+				<ListItem type="dict">
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\3.2.8XI
+					</Location>
+					<Type type="str">
+						Pic
+					</Type>
+					<Name type="str">
+						K
+					</Name>
+				</ListItem>
+				<ListItem type="dict">
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\3.3.8XI
+					</Location>
+					<Type type="str">
+						Pic
+					</Type>
+					<Name type="str">
+						L
+					</Name>
+				</ListItem>
+				<ListItem type="dict">
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\4.11.8XI
+					</Location>
+					<Type type="str">
+						Pic
+					</Type>
+					<Name type="str">
+						M
+					</Name>
+				</ListItem>
+				<ListItem type="dict">
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\5.11.8XI
+					</Location>
+					<Type type="str">
+						Pic
+					</Type>
+					<Name type="str">
+						N
+					</Name>
+				</ListItem>
+				<ListItem type="dict">
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\6.11.8XI
+					</Location>
+					<Type type="str">
+						Pic
+					</Type>
+					<Name type="str">
+						O
+					</Name>
+				</ListItem>
+				<ListItem type="dict">
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\7.11.8XI
+					</Location>
+					<Type type="str">
+						Pic
+					</Type>
+					<Name type="str">
+						P
+					</Name>
+				</ListItem>
+				<ListItem type="dict">
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\8.1.8XI
+					</Location>
+					<Type type="str">
+						Pic
+					</Type>
+					<Name type="str">
+						Q
+					</Name>
+				</ListItem>
+				<ListItem type="dict">
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\9.1.8XI
+					</Location>
+					<Type type="str">
+						Pic
+					</Type>
+					<Name type="str">
+						R
+					</Name>
+				</ListItem>
+				<ListItem type="dict">
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\9.2.8XI
+					</Location>
+					<Type type="str">
+						Pic
+					</Type>
+					<Name type="str">
+						S
+					</Name>
+				</ListItem>
+				<ListItem type="dict">
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\SN.8XI
+					</Location>
+					<Type type="str">
+						Pic
+					</Type>
+					<Name type="str">
+						Z
+					</Name>
+				</ListItem>
+				<ListItem type="dict">
+					<Name type="str">
+						T
+					</Name>
+					<Type type="str">
+						Pic
+					</Type>
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\10.1.8XI
+					</Location>
+				</ListItem>
+				<ListItem type="dict">
+					<Name type="str">
+						U
+					</Name>
+					<Type type="str">
+						Pic
+					</Type>
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\11.1.8XI
+					</Location>
+				</ListItem>
+				<ListItem type="dict">
+					<Name type="str">
+						V
+					</Name>
+					<Type type="str">
+						Pic
+					</Type>
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\12.32.8XI
+					</Location>
+				</ListItem>
+				<ListItem type="dict">
+					<Name type="str">
+						W
+					</Name>
+					<Type type="str">
+						Pic
+					</Type>
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\13.2.8XI
+					</Location>
+				</ListItem>
+				<ListItem type="dict">
+					<Name type="str">
+						X
+					</Name>
+					<Type type="str">
+						Pic
+					</Type>
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\14.2.8XI
+					</Location>
+				</ListItem>
+				<ListItem type="dict">
+					<Name type="str">
+						Y
+					</Name>
+					<Type type="str">
+						Pic
+					</Type>
+					<Location type="str">
+						C:\Users\Ankur\Desktop\ChemistryX\15.2.8XI
+					</Location>
+				</ListItem>
+			</Files>
+			<Menu type="str">
+				ChemX
+			</Menu>
+		</ListItem>
+	</MenuItems>
+	<FileFormatVersion type="int">
+		1
+	</FileFormatVersion>
+	<MenuQuit type="str">
+		Quit
+	</MenuQuit>
+	<ReturnToMenu type="bool">
+		0
+	</ReturnToMenu>
+	<Output type="str">
+		chemx71212.hex
+	</Output>
+</Basicbuilder>
